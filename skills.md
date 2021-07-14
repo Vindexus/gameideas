@@ -30,6 +30,11 @@ Changes Target to "Most damaged enemy"
 Can modify *Offensive* skills.  
 Add mana bonus: ❄️|+1d6 Cold damage
 
+**Archmage's Rune**  
+Can modify *Offensive Spell* skills.  
+Increase mana cost by 1.  
+Skill deals +1d8 Arcane damage.
+
 # Sample Skills
 
 |Fireball|Deal 2d8 Fire damage.|
